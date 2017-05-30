@@ -1,6 +1,6 @@
 # Twitter personality insights using IBM Watson
 
-I made this project during the University of Houston CodeRed hackathon on Friday, November 20, 2015. This project fetches all of the posts from a specified Twitter user and utilizes IBM's Watson Personality Insights technology to predict their personality traits. Personality traits are determined by their tone, writing style, and various other factors.
+This is my first major hackathon project. I made this project during the University of Houston CodeRed hackathon on Friday, November 20, 2015. This project fetches all of the posts from a specified Twitter user and utilizes IBM's Watson Personality Insights technology to predict their personality traits. Personality traits are determined by their tone, writing style, and various other factors.
 
 **Please note** that this is not 100% accurate. Users with a low number of posts may not get accurate results.
 
