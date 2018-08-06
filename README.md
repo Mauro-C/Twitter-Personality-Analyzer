@@ -4,7 +4,7 @@ This project fetches all of the posts from a specified Twitter user and utilizes
 
 **Please note** that this is not 100% accurate. Users with a low number of posts may not get accurate results.
 
-This project is written entirely in Javascript and uses the node.js & express.js frameworks. It took around 14 hours to complete. I currently have no active server running this, but if you can run this yourself if you have a Twitter and Watson API key.
+This project is written entirely in Javascript and uses the node.js & express.js frameworks. It took around 14 hours to make. I currently have no active server running this, but if you can run this yourself if you have a Twitter and Watson API key.
 
 I made this tool during the University of Houston CodeRed hackathon on Friday, November 20, 2015. 
 
